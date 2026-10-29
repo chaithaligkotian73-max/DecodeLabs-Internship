@@ -1,0 +1,24 @@
+role,skills,demand,summary
+Data Scientist,python;sql;machine learning;statistics;data analysis;pandas;numpy;data visualization;scikit-learn,92,Turns raw data into predictions and business insights.
+Data Analyst,sql;excel;data analysis;data visualization;power bi;tableau;statistics;python,88,Cleans and analyzes data to answer business questions.
+Data Engineer,python;sql;spark;etl;airflow;kafka;data warehousing;aws;hadoop,90,Builds the pipelines that move and store large-scale data.
+Machine Learning Engineer,python;machine learning;deep learning;tensorflow;pytorch;mlops;docker;scikit-learn;numpy,93,Trains and deploys machine learning models in production.
+AI Research Engineer,python;deep learning;pytorch;nlp;computer vision;statistics;algorithms;numpy,85,Designs and experiments with new AI models and architectures.
+DevOps Engineer,linux;docker;kubernetes;ci/cd;aws;terraform;automation;scripting;git;monitoring;python,91,"Automates build, test and deployment pipelines."
+Cloud Engineer,cloud computing;aws;azure;linux;networking;automation;terraform;docker;security,89,Builds and maintains cloud infrastructure.
+Cloud Architect,cloud computing;aws;azure;gcp;system design;microservices;networking;security;kubernetes;terraform,87,Designs scalable and secure cloud systems.
+Site Reliability Engineer,linux;monitoring;automation;kubernetes;python;incident response;ci/cd;networking;scripting,84,"Keeps large systems fast, reliable and available."
+System Administrator,linux;bash;networking;virtualization;backup;troubleshooting;scripting;security;automation;monitoring,70,"Maintains servers, networks and internal IT systems."
+Backend Developer,java;python;sql;apis;rest;git;microservices;spring boot;postgresql;data structures,90,"Builds server-side logic, databases and APIs."
+Frontend Developer,html;css;javascript;typescript;react;git;testing;figma;apis,89,Builds the interactive interfaces users see in the browser.
+Full Stack Developer,html;css;javascript;react;node.js;sql;mongodb;apis;git;rest,91,"Works across frontend, backend and database layers."
+Android Developer,kotlin;java;android;apis;git;testing;data structures;sql,78,Builds apps for Android devices.
+iOS Developer,swift;ios;apis;git;testing;data structures;sql,74,Builds apps for iPhone and iPad.
+Cross-Platform App Developer,flutter;javascript;react;apis;git;testing;android;ios,76,Builds mobile apps for multiple platforms from one codebase.
+Cybersecurity Analyst,security;networking;linux;penetration testing;incident response;cryptography;monitoring;scripting,86,"Detects, investigates and prevents security threats."
+Database Administrator,sql;postgresql;nosql;mongodb;backup;troubleshooting;monitoring;linux;data warehousing,72,"Manages, secures and tunes databases."
+QA Automation Engineer,testing;selenium;python;java;ci/cd;git;automation;agile;apis,75,Automates tests to catch bugs before release.
+Game Developer,c++;c#;unity;algorithms;data structures;git;system design;computer vision,68,"Builds game engines, mechanics and interactive worlds."
+Embedded Systems Engineer,c;c++;embedded systems;rtos;networking;troubleshooting;git;algorithms,66,Writes software that runs directly on hardware devices.
+Blockchain Developer,solidity;blockchain;cryptography;javascript;node.js;apis;security;data structures,64,Builds decentralized apps and smart contracts.
+UI/UX Designer,figma;ux research;prototyping;html;css;agile;web design;data visualization,80,"Designs usable, attractive digital experiences."
