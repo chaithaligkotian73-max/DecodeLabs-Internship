@@ -1,0 +1,6 @@
+DECODELABS AI INTERNSHIP
+Project 4: Text Recognition
+Invoice No: 20260429
+Date: 29 October 2026
+Item: Industrial Training Kit
+Total Amount: $499.00
